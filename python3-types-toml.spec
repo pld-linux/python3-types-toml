@@ -2,7 +2,7 @@ Summary:	Typing stubs for toml
 Summary(pl.UTF-8):	Zaślepki typów dla modułu toml
 Name:		python3-types-toml
 Version:	0.10.8.7
-Release:	2
+Release:	3
 License:	Apache v2.0
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/types-toml/
